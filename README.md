@@ -79,5 +79,5 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 <a href="https://github.com/CPetrevski/14-hw-tech-blog" target="_blank">Repository</a>
 
-<a href="" target="_blank">Heroku App</a>
+<a href="https://pacific-oasis-96954.herokuapp.com/" target="_blank">Heroku App</a>
 
